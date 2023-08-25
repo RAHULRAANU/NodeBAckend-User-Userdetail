@@ -1,4 +1,4 @@
-# Node JS Backend-user & user Detail 
+# Node JS Backend - Employee & Employee Detai
 User And User_Detail Schema , Genereation Of token, populate with User
 This repository contains a Node.js backend application for managing user records and their details. The backend provides API endpoints to perform CRUD (Create, Read, Update, Delete) operations on user data. It serves as a foundation for building applications that require user management functionality.
 
